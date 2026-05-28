@@ -310,12 +310,11 @@ padding: 50px 30px;
 }
 }
 /* ===== Make homepage image slightly larger ===== */
-
 .hero {
-grid-template-columns: 40% 60% !important;
+  grid-template-columns: 40% 60% !important;
 }
 
 .hero-image {
-transform: scale(1.05);
-transform-origin: center center;
+  transform: scale(1.05);
+  transform-origin: center center;
 }
