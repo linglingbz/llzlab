@@ -316,6 +316,6 @@ grid-template-columns: 40% 60% !important;
 }
 
 .hero-image {
-transform: scale(1.10);
+transform: scale(1.05);
 transform-origin: center center;
 }
